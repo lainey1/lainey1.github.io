@@ -1,0 +1,109 @@
+#about-me-section {
+  display: flex;
+  padding: 0 50px;
+}
+
+#section-header {
+  font-size: 4em;
+  color: #9b70eb;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#section-paragraph {
+  margin-top: 125px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 1.5em;
+}
+
+.profile-image {
+  height: 50vh;
+  width: auto;
+  object-fit: cover; /* Ensures the image crops properly */
+  display: block;
+  margin: 0 auto;
+}
+
+#typed-container {
+  display: flex;
+  justify-content: center;
+  height: 3em;
+  margin: 5%;
+}
+
+#typed {
+  font-size: 1.25em;
+  font-weight: 700;
+  color: #9b70eb;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+
+/* ================================
+     Media Queries
+  ================================ */
+
+/* Small Screens (up to 667px) */
+@media (max-width: 667px) {
+  #about-me-section {
+    flex-direction: column; /* Stack elements vertically */
+    padding: 20px; /* Reduce padding for smaller screens */
+  }
+
+  #section-header {
+    margin-top: 0px;
+    font-size: 2em;
+    padding-top: 0;
+  }
+
+  #section-paragraph {
+    margin-top: 20px;
+    padding-top: 15px;
+    font-size: 1.5em;
+  }
+
+  .profile-image {
+    height: auto; /* Adjust image height */
+    width: 100%; /* Make the image span the full width */
+    max-height: 50vh; /* Limit height to prevent oversized images */
+    object-fit: contain; /* Ensures the full image is visible */
+  }
+
+  #about-me {
+    text-align: center; /* Center-align text for better layout */
+    margin-top: 20px; /* Add spacing between image and text */
+  }
+}
+
+
+@media (max-width: 1024px) {
+  #about-me-section {
+    flex-direction: column; /* Stack elements vertically */
+    padding: 20px; /* Reduce padding for smaller screens */
+  }
+
+  #section-header {
+    margin-top: 0px;
+    font-size: 2em;
+    padding-top: 0;
+  }
+
+  #section-paragraph {
+    margin-top: 5px;
+    font-size: 1.5em;
+  }
+
+  .profile-image {
+    height: auto; /* Adjust image height */
+    width: 100%; /* Make the image span the full width */
+    max-height: 50vh; /* Limit height to prevent oversized images */
+    object-fit: contain; /* Ensures the full image is visible */
+  }
+
+  #about-me {
+    text-align: center; /* Center-align text for better layout */
+    margin-top: 20px; /* Add spacing between image and text */
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d79c628.css",
+    "main.js": "/static/js/main.c12fcd81.js",
+    "static/js/488.9c92ff38.chunk.js": "/static/js/488.9c92ff38.chunk.js",
+    "static/media/pawSpot-site-view.png": "/static/media/pawSpot-site-view.22028c490695a9a3390c.png",
+    "static/media/eater_verse_wireframe.png": "/static/media/eater_verse_wireframe.e6226591090ea105c9f5.png",
+    "static/media/pro-transparent-back.jpg": "/static/media/pro-transparent-back.7f3cac392b5f7ca6b93f.jpg",
+    "static/media/headshot.jpg": "/static/media/headshot.5d35f2b1268bdf675d6c.jpg",
+    "index.html": "/index.html",
+    "main.0d79c628.css.map": "/static/css/main.0d79c628.css.map",
+    "main.c12fcd81.js.map": "/static/js/main.c12fcd81.js.map",
+    "488.9c92ff38.chunk.js.map": "/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d79c628.css",
+    "static/js/main.c12fcd81.js"
+  ]
+}
