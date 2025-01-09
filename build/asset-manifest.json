@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d79c628.css",
-    "main.js": "/static/js/main.c12fcd81.js",
+    "main.css": "/static/css/main.fb5fe102.css",
+    "main.js": "/static/js/main.905c24d3.js",
     "static/js/488.9c92ff38.chunk.js": "/static/js/488.9c92ff38.chunk.js",
     "static/media/pawSpot-site-view.png": "/static/media/pawSpot-site-view.22028c490695a9a3390c.png",
-    "static/media/eater_verse_wireframe.png": "/static/media/eater_verse_wireframe.e6226591090ea105c9f5.png",
+    "static/media/eater_verse_wireframe.png": "/static/media/eater_verse_wireframe.b62566d46d5076fb395b.png",
     "static/media/pro-transparent-back.jpg": "/static/media/pro-transparent-back.7f3cac392b5f7ca6b93f.jpg",
     "static/media/headshot.jpg": "/static/media/headshot.5d35f2b1268bdf675d6c.jpg",
+    "static/media/under-construction.jpg": "/static/media/under-construction.964c120c5f1fb79d07d6.jpg",
     "index.html": "/index.html",
-    "main.0d79c628.css.map": "/static/css/main.0d79c628.css.map",
-    "main.c12fcd81.js.map": "/static/js/main.c12fcd81.js.map",
+    "main.fb5fe102.css.map": "/static/css/main.fb5fe102.css.map",
+    "main.905c24d3.js.map": "/static/js/main.905c24d3.js.map",
     "488.9c92ff38.chunk.js.map": "/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d79c628.css",
-    "static/js/main.c12fcd81.js"
+    "static/css/main.fb5fe102.css",
+    "static/js/main.905c24d3.js"
   ]
 }
