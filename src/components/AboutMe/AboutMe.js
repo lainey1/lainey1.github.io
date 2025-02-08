@@ -6,7 +6,7 @@ import Experience from "../Experience/Experience";
 import ContactMe from "../ContactMe/ContactMe";
 import profileImage from "../../static/images/headshot-lavendar.jpg";
 
-const aboutMeText = `Software engineer passionate about transforming complex business challenges into elegant technical solutions. With a unique background in HR technology and enterprise systems, I bring both technical expertise and deep domain knowledge to full-stack development. Currently building impactful applications using JavaScript, Python, and React, with a focus on performance optimization and user-centric design.`;
+const aboutMeText = `From HR-IT systems to full-stack development, my journey began with automation. After a decade leading technical solutions for HR—including an AI chatbot supporting 1,000+ employees—I discovered my calling in software development. With extensive experience in system optimization and automation, I now combine my business acumen with JavaScript, Python, and React to build efficient, user-focused applications`;
 
 const strings = [
   "is a full-stack software engineer...",

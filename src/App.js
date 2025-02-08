@@ -12,17 +12,22 @@ function Layout() {
   );
 }
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      element: <Layout />,
+      children: [
+        {
+          path: "/",
+          element: <AboutMe />,
+        },
+      ],
+    },
+  ],
   {
-    element: <Layout />,
-    children: [
-      {
-        path: "/",
-        element: <AboutMe />,
-      },
-    ],
-  },
-]);
+    basename: "/", // For username.github.io repository
+  }
+);
 
 function App() {
   return <RouterProvider router={router} />;

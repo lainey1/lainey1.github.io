@@ -43,24 +43,24 @@ function Experience() {
   const experiences = [
     {
       company: "Solidigm",
-      dates: "Oct 2021 - Feb 2024",
+      dates: "October 2021 - February 2024",
       title: "Technology Solutions Manager",
       bullets: [
-        "Partnered with Moveworks and engineering to develop an AI-powered HR chatbot, improving monthly ticket resolution efficiency by 70%.",
+        "Partnered with Moveworks and engineering to develop an AI-powered HR chatbot, improving monthly ticket resolution efficiency by 70%",
         "Developed and optimized ServiceNow workflows and interactive dashboards using JavaScript, HTML/CSS, improving system performance and user experience",
         "Led Agile development sprints for 100+ system improvements, managing full testing lifecycle and deployment strategies for enterprise applications",
-        "Designed scalable system architecture for HR and Finance platforms serving 1,000+ users, implementing robust data models and integration patterns",
+        "Spearheaded the design and implementation of scalable HR and Finance systems for 1,000+ employees, including global travel and expense systems (Concur, Navan) and ServiceNow HRSD for centralized employee request management",
       ],
       location: "San Francisco, California",
     },
     {
       company: "Google",
-      dates: "March 2013 - Oct 2021",
+      dates: "March 2013 - October 2021",
       title: "Technical Operations Engineer",
       bullets: [
-        "Engineered automation solutions using JavaScript and Google Apps Script, reducing manual processing time by 80% through efficient algorithm design",
+        "Engineered automation solutions using JavaScript and Google Apps Script, reducing manual processing time by 80%",
         "Developed COVID-19 leave request system handling 100,000+ employees, implementing complex business logic and workflow automation",
-        "Led migration of Global Benefits team from internal case management tool to Salesforce, improving efficiency and scalability through discovery, design, training, and implementation.",
+        "Led migration of Global Benefits team from internal case management tool to Salesforce, improving efficiency and scalability through discovery, design, training, and implementation",
         "Optimized Workday/HRIS systems through custom SQL queries and workflow automation, achieving 70% reduction in processing time",
       ],
       location: "San Francisco, California",
@@ -71,7 +71,7 @@ function Experience() {
     {
       title: "Software Engineering Certificate",
       institution: "App Academy",
-      dates: "Feb 2024 - Present",
+      dates: "January 2025",
       achievements: [
         "Developed full-stack applications using React, Redux, Express, and Flask, implementing RESTful APIs and complex state management patterns",
         "Built and deployed scalable web applications with PostgreSQL databases, implementing efficient data models and optimizing query performance",
@@ -81,7 +81,7 @@ function Experience() {
     {
       title: "Bachelor of Arts in Physical and Biological Anthropology",
       institution: "University of California, Berkeley",
-      dates: "Graduated May 2011",
+      dates: "May 2011",
     },
   ];
 
@@ -93,12 +93,12 @@ function Experience() {
             Experience & Education
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Full-Stack Software Engineer with 10+ years of experience in HR
-            technology and operations management. Skilled in both frontend and
-            backend development, specializing in JavaScript, Python, SQL, and
-            frameworks like React, Flask, and Express. Experienced in driving
-            process optimization and delivering innovative, user-centric
-            solutions that improve operational efficiency.
+            <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+              Over 10 years of experience building HR technology solutions, now
+              transitioning into full-stack development. Combining deep domain
+              expertise with technical skills to create efficient, user-focused
+              applications that bridge business and engineering needs.
+            </p>
           </p>
         </div>
 

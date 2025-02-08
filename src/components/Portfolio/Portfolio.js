@@ -73,7 +73,7 @@ const Portfolio = () => {
       repoLink: "https://github.com/lainey1/reciprocity",
       siteLink: "https://reciprocity.onrender.com/",
       description:
-        "A platform connecting people through shared experiences around food, strengthening bonds and creating lasting memories. Features include saving and sharing recipes/collections and secured user data.",
+        "A full-stack recipe sharing platform featuring optimized Redux state management with fine-tuned useSelector hooks, AWS S3 integration for image storage, and a fully responsive UI built with advanced CSS media queries. Implemented secure user authentication and efficient data management.",
       techStack: "React, Redux, Flask, PostgreSQL, AWS",
     },
     {
@@ -82,7 +82,7 @@ const Portfolio = () => {
       repoLink: "https://github.com/lainey1/eaterverse",
       siteLink: "https://eaterverse.onrender.com",
       description:
-        "An innovative platform for restaurant reservations, reviews, and user profile management, combining restaurant discovery and booking in a seamless experience.",
+        "A restaurant management platform featuring SQLAlchemy-powered backend with optimized One-to-Many and Many-to-Many associations. Implemented real-time status updates using JavaScript. Currently working on integrating Google Maps API and building comprehensive search functionality with multiple filter parameters.",
       techStack: "React, Redux, Flask, PostgreSQL, Flask Authentication",
     },
     {
@@ -91,7 +91,7 @@ const Portfolio = () => {
       repoLink: "https://github.com/lainey1/pawSpot",
       siteLink: "https://pawspot.onrender.com",
       description:
-        "An online marketplace connecting pet owners with trusted paw pal hosts for short- and long-term stays. Features secure authentication, dynamic content, and real-time features.",
+        "An Airbnb-style platform built with Express and PostgreSQL backend, featuring JWT authentication and dynamic React components. Implemented reusable component architecture using state and props for optimal data flow, while managing development through GitHub Kanban.",
       techStack: "React, Redux, Express, PostgreSQL, JWT Authentication",
     },
   ];
@@ -102,10 +102,9 @@ const Portfolio = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-white mb-4">My Portfolio</h2>
           <p className="text-lg text-white/90 max-w-3xl mx-auto">
-            Welcome to my portfolio! Here you'll find a mix of projects that
-            highlight my skills in both front-end and back-end development and
-            my ability to craft user-friendly solutions and tackle challenges
-            creatively.
+            Welcome to my portfolio! Here you'll find full-stack applications
+            demonstrating my proficiency in modern web technologies, database
+            design, API integration, and responsive UI development.
           </p>
         </div>
         <div className="flex flex-wrap justify-center">

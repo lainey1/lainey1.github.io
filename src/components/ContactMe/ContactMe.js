@@ -69,8 +69,8 @@ const ContactMe = () => {
             Let's Build Something Cool
           </h2>
           <p className="text-lg text-white/90 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas, or
-            opportunities to be part of your visions.
+            I'm always open to discussing innovative projects and bringing
+            creative ideas to life.
           </p>
         </div>
 
