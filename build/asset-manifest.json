@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb5fe102.css",
-    "main.js": "/static/js/main.905c24d3.js",
+    "main.css": "/static/css/main.7ce7a4bb.css",
+    "main.js": "/static/js/main.3684913a.js",
     "static/js/488.9c92ff38.chunk.js": "/static/js/488.9c92ff38.chunk.js",
-    "static/media/pawSpot-site-view.png": "/static/media/pawSpot-site-view.22028c490695a9a3390c.png",
-    "static/media/eater_verse_wireframe.png": "/static/media/eater_verse_wireframe.b62566d46d5076fb395b.png",
-    "static/media/pro-transparent-back.jpg": "/static/media/pro-transparent-back.7f3cac392b5f7ca6b93f.jpg",
-    "static/media/headshot.jpg": "/static/media/headshot.5d35f2b1268bdf675d6c.jpg",
-    "static/media/under-construction.jpg": "/static/media/under-construction.964c120c5f1fb79d07d6.jpg",
+    "static/media/reciprocity.png": "/static/media/reciprocity.dd39d47db794d91c8592.png",
+    "static/media/pawSpot-site-view.png": "/static/media/pawSpot-site-view.feaf18f549e463034cd1.png",
+    "static/media/eaterverse.png": "/static/media/eaterverse.3e3cc2ee4b5a7f5ddfa9.png",
+    "static/media/headshot-lavendar.jpg": "/static/media/headshot-lavendar.09f87d52c248f913d0ef.jpg",
     "index.html": "/index.html",
-    "main.fb5fe102.css.map": "/static/css/main.fb5fe102.css.map",
-    "main.905c24d3.js.map": "/static/js/main.905c24d3.js.map",
+    "main.7ce7a4bb.css.map": "/static/css/main.7ce7a4bb.css.map",
+    "main.3684913a.js.map": "/static/js/main.3684913a.js.map",
     "488.9c92ff38.chunk.js.map": "/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb5fe102.css",
-    "static/js/main.905c24d3.js"
+    "static/css/main.7ce7a4bb.css",
+    "static/js/main.3684913a.js"
   ]
 }
