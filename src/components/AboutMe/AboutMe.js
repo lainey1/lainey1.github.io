@@ -6,7 +6,7 @@ import Experience from "../Experience/Experience";
 import ContactMe from "../ContactMe/ContactMe";
 import profileImage from "../../static/images/headshot-lavendar.jpg";
 
-const aboutMeText = `From HR-IT systems to full-stack development, my journey began with automation. After a decade leading technical solutions for HR—including an AI chatbot supporting 1,000+ employees—I discovered my calling in software development. With extensive experience in system optimization and automation, I now combine my business acumen with JavaScript, Python, and React to build efficient, user-focused applications`;
+const aboutMeText = `Technology operations leader bridging enterprise systems and full-stack development. After a decade implementing technical solutions at Google and Solidigm—including an AI chatbot that automated 70% of HR support for 1,000+ employees—I've expanded my focus to building scalable applications. I combine my business process expertise with JavaScript, Python, and React to create efficient, user-focused solutions that drive measurable impact.`;
 
 const strings = [
   "is a full-stack software engineer...",

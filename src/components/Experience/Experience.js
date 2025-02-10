@@ -46,24 +46,22 @@ function Experience() {
       dates: "October 2021 - February 2024",
       title: "Technology Solutions Manager",
       bullets: [
-        "Partnered with Moveworks and engineering to develop an AI-powered HR chatbot, improving monthly ticket resolution efficiency by 70%",
-        "Developed and optimized ServiceNow workflows and interactive dashboards using JavaScript, HTML/CSS, improving system performance and user experience",
-        "Led Agile development sprints for 100+ system improvements, managing full testing lifecycle and deployment strategies for enterprise applications",
-        "Spearheaded the design and implementation of scalable HR and Finance systems for 1,000+ employees, including global travel and expense systems (Concur, Navan) and ServiceNow HRSD for centralized employee request management",
+        "Led implementation and operations of global HR systems (Concur, Navan, ServiceNow HRSD), managing daily maintenance and support for 1,000+ employees.",
+        "Collaborated with Moveworks and IT team to launch an AI-powered HR chatbot within 2 months, scaling from 500+ monthly tickets to 70% automated resolution by year-end, reducing manual support workload.",
+        "Drove 100+ system improvements through Agile sprints, overseeing business acceptance testing for enterprise deployments.",
       ],
-      location: "San Francisco, California",
+      location: "San Francisco, CA",
     },
     {
       company: "Google",
       dates: "March 2013 - October 2021",
       title: "Technical Operations Engineer",
       bullets: [
-        "Engineered automation solutions using JavaScript and Google Apps Script, reducing manual processing time by 80%",
-        "Developed COVID-19 leave request system handling 100,000+ employees, implementing complex business logic and workflow automation",
-        "Led migration of Global Benefits team from internal case management tool to Salesforce, improving efficiency and scalability through discovery, design, training, and implementation",
-        "Optimized Workday/HRIS systems through custom SQL queries and workflow automation, achieving 70% reduction in processing time",
+        "Managed end-to-end migration of global benefits team to Salesforce case management system, leading discovery, implementation, and deployment across all regions.",
+        "Automated HR workflows using Apps Script/JavaScript and SQL, reducing manual effort by 80%.",
+        "Collaborated with engineering to enhance internal HR tools and enterprise systems (Workday, Concur).",
       ],
-      location: "San Francisco, California",
+      location: "San Francisco, CA",
     },
   ];
 
@@ -73,9 +71,9 @@ function Experience() {
       institution: "App Academy",
       dates: "January 2025",
       achievements: [
-        "Developed full-stack applications using React, Redux, Express, and Flask, implementing RESTful APIs and complex state management patterns",
-        "Built and deployed scalable web applications with PostgreSQL databases, implementing efficient data models and optimizing query performance",
-        "Engineered responsive front-end interfaces using modern JavaScript (ES6+), implementing custom hooks and optimizing component lifecycle",
+        "Developed full-stack applications using React, Redux, Express, and Flask, implementing RESTful APIs and complex state management patterns.",
+        "Built and deployed scalable web applications with PostgreSQL databases, implementing efficient data models and optimizing query performance.",
+        "Engineered responsive front-end interfaces using modern JavaScript (ES6+), implementing custom hooks and optimizing component lifecycle.",
       ],
     },
     {
@@ -94,10 +92,11 @@ function Experience() {
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Over 10 years of experience building HR technology solutions, now
-              transitioning into full-stack development. Combining deep domain
-              expertise with technical skills to create efficient, user-focused
-              applications that bridge business and engineering needs.
+              Tech operations leader with 10+ years of enterprise systems
+              experience, now building full-stack apps using JavaScript, Python,
+              and React. Combines business process expertise with technical
+              implementation skills to develop scalable software solutions that
+              drive measurable impact.
             </p>
           </p>
         </div>
